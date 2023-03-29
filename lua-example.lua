@@ -1,4 +1,4 @@
--[[
+--[[
 Ang3lic Protection LUA - Use actually good fucking compiler :)
 ]]
 
